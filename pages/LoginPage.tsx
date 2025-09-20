@@ -88,18 +88,6 @@ const LoginPage: React.FC<LoginPageProps> = ({ onNavigateToSignup }) => {
             </button>
           </div>
         </form>
-
-        <div className="mt-6 p-3 bg-slate-50/80 border border-slate-200 rounded-lg text-center text-sm">
-            <p className="font-semibold text-slate-600">
-                Demo Account
-            </p>
-            <p className="text-slate-500 mt-1">
-                <span className="font-medium">Email:</span> <code className="bg-slate-200 text-slate-700 px-1 py-0.5 rounded">sanjay.k@fineforce.gov.in</code>
-            </p>
-            <p className="text-slate-500">
-                <span className="font-medium">Password:</span> <code className="bg-slate-200 text-slate-700 px-1 py-0.5 rounded">password123</code>
-            </p>
-        </div>
         
         <p className="text-sm text-center text-slate-600">
           Don't have an account?{' '}
