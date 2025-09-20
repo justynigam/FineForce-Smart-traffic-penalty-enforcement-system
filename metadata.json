@@ -1,0 +1,7 @@
+{
+  "name": "FineForce – Smart Traffic Penalty & Enforcement System",
+  "description": "FineForce is an AI-powered, end-to-end traffic penalty management system designed to automate violation detection, streamline penalty issuance, and optimize enforcement operations. Built for traffic police departments, municipal authorities, and law enforcement agencies, FineForce replaces outdated manual processes with a smart, data-driven platform that improves compliance, reduces revenue leakage, and enhances road safety.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
